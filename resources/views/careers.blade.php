@@ -651,10 +651,6 @@
             </div>
         </div>
 
-
-
-        test branch
-
         @include('footer');
     </div>
 </body>
